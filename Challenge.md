@@ -18,4 +18,4 @@ It's an advanced method of maintaining persistence in a network, often used in s
 
 ------------------ Your mission is to identify the IP address of the compromised host issuing the DNS beacons. ------------------
 
-The flag is issued in the standard dotted '.' format xxx.xxx.xxx.xxx
+## The flag is issued in the standard dotted '.' format xxx.xxx.xxx.xxx
