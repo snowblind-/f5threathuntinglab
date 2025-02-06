@@ -15,3 +15,7 @@ Periodicity: The compromised system often sends DNS requests on a regular interv
 Size and Structure of DNS Requests: The attacker may encode data into the DNS request, often using the subdomain part of the DNS query to carry the exfiltrated data.
 
 It's an advanced method of maintaining persistence in a network, often used in sophisticated attacks like APTs (Advanced Persistent Threats), since it blends in with normal internet traffic. Detecting DNS beaconing often requires looking at unusual patterns of DNS queries, like high volumes, odd domain names, or unexpected frequency.
+
+------------------ Your mission is to identify the IP address of the compromised host issuing the DNS beacons. ------------------
+
+The flag is issued in the standard dotted '.' format xxx.xxx.xxx.xxx
