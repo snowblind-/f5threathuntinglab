@@ -1,4 +1,4 @@
-#Challenge Number.1 - DNS Beaconing
+# Challenge Number.1 - DNS Beaconing
 
 DNS beaconing is a technique often used in cybersecurity, primarily by attackers, to communicate with compromised devices or systems. It involves sending DNS (Domain Name System) requests that are designed to transmit small pieces of data, or "beacons," to an attacker’s server, often in a covert or hidden manner.
 
