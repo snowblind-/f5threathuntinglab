@@ -2,4 +2,6 @@ Beaconing is a term used to describe a continuous cadence of communication betwe
 
 While on the surface beaconing can appear similar to normal network traffic, it has some unique traits with respect to timing and packet size, which can be modeled using standard statistical and signal processing techniques. Find the encrypted message the C2 server is responding to the client.
 
-HINT: The server payload is within the message body "XXXXXXXXXX"  response from the server.
+------------------ Your mission is to identify the payload message from the C2 server ------------------
+
+# HINT: The flag is in the server payload and is within the message body response from the server.
