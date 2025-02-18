@@ -1,1 +1,8 @@
-Capture the flag challenges
+Capture the flag challenges.
+
+This site is just for reference and to allow you to read the challenges easier.
+
+Register your team here: [F5 Threathunting](https://f5threathunting.ctfd.io)
+
+
+[DNS Beaconing](https://github.com/snowblind-/f5threathuntinglab/blob/main/dnsbeacon.md)
