@@ -2,7 +2,7 @@
 Security Onion is a free and open platform built by defenders for defenders. It includes network visibility, host visibility, intrusion detection honeypots, log management, and case management. For network visibility, it offer’s signature based detection via Suricata, rich protocol metadata and file extraction using either Zeek or Suricata, full packet capture using either Stenographer or Suricata, and file analysis.
 
 The Security Onion Console can be reached from within the lab by browsing to https://10.1.1.8. Login using the provided credentials. 
-![alt text](/Images/SO-login.jpg "SO Login")
+![alt text](/Images/SO_login.jpg "SO Login")
 
 After logging in, you will see the Security Onion Console (SOC) Overview page:
 ![alt text](/Images/SOC_overview.jpeg "SO Overview")
@@ -11,10 +11,10 @@ From here, you can navigate to Dashboards by clicking the Dashboards link on the
 ![alt text](/Images/SO-Dashboard.jpeg "SO Dashboard")
 
 From within the Dashboard page, you can filter event datasets by left mouse-clicking on an event data of interest, then clicking the appropriate filter button.
-![alt text](/Images/SO-dashboard_filter.png "SO Dashboard Filter")
+![alt text](/Images/SO_dashboard_filter.png "SO Dashboard Filter")
 
 To focus on alerts only, you can navigate to the Alerts page by clicking the Alerts link on the left-hand side of the page.
-![alt text](/Images/SO-alerts.jpeg "SO Alerts")
+![alt text](/Images/SO_alerts.jpeg "SO Alerts")
 
 To see the individual events associated with an alert, you can left-click one, then click the Drilldown button. This will filter the display to only those events associated with the alert.
 ![alt text](/Images/SO_event_drilldown.png "SO Drilldown")
