@@ -11,7 +11,7 @@ From here, you can navigate to Dashboards by clicking the Dashboards link on the
 ![alt text](/Images/SO-Dashboard.jpeg "SO Dashboard")
 
 From within the Dashboard page, you can filter event datasets by left mouse-clicking on an event data of interest, then clicking the appropriate filter button.
-![alt text](/Images/SO_dashboard_filter.png "SO Dashboard Filter")
+![alt text](/Images/SO_dashboard_filter.jpg "SO Dashboard Filter")
 
 To focus on alerts only, you can navigate to the Alerts page by clicking the Alerts link on the left-hand side of the page.
 ![alt text](/Images/SO_alerts.jpeg "SO Alerts")
