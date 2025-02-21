@@ -11,3 +11,6 @@ Register your team here: [F5 Threathunting](https://f5threathunting.ctfd.io)
 
 [Data Exfiltration](https://github.com/therealnoof/f5threathuntinglab/blob/main/dataexfiltration.md)
 
+[Virus Downloads]
+
+[DoH Data Exfiltration]
