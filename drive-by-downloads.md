@@ -19,4 +19,4 @@
 
   * Some browser extensions might have hidden, malicious functionalities that allow them to download and run viruses on your device. Always be cautious about what extensions you install and from where.
 
-## The Flag Is The Signature Message VIRUS DETECTED:
+## The Flag Is The Virus Signature Detected:
