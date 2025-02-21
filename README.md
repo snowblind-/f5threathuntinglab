@@ -9,3 +9,5 @@ Register your team here: [F5 Threathunting](https://f5threathunting.ctfd.io)
 
 [HTTPS C2 Beaconing](https://github.com/snowblind-/f5threathuntinglab/blob/main/httpsbeacon.md)
 
+[Data Exfiltration](https://github.com/therealnoof/f5threathuntinglab/blob/main/dataexfiltration.md)
+
